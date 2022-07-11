@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=9V Pin=P1-1
+Removed Pin From Net: NetName=5V Pin=P1-2
+Removed Pin From Net: NetName=3.3V Pin=P1-3
+Removed Pin From Net: NetName=GND Pin=P1-4
+Change Component Footprint: Designator=C1 Old Footprint=CAPPR65-500-1600X1000X1700 New Footprint=CAPPR65-500-1600X1000X1700
+Change Component Footprint: Designator=C2 Old Footprint=CAPPR65-500-1600X1000X1700 New Footprint=CAPPR65-500-1600X1000X1700
+Change Component Footprint: Designator=C3 Old Footprint=CAPPR65-500-1600X1000X1700 New Footprint=CAPPR65-500-1600X1000X1700
+Change Component Designator: OldDesignator=  NewDesignator=P2
+Added Pin To Net: NetName=GND Pin=P1-1
+Added Pin To Net: NetName=9V Pin=P1-2
+Added Pin To Net: NetName=5V Pin=P1-3
+Added Pin To Net: NetName=3.3V Pin=P1-4
+Added Room: Name=bluepill_voltage_reg_pcb
